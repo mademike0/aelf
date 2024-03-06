@@ -1,0 +1,13 @@
+/workspaces/aelf/capstone_aelf/src/bin/Debug/net6.0/StackUpDAO.deps.json
+/workspaces/aelf/capstone_aelf/src/bin/Debug/net6.0/StackUpDAO.dll
+/workspaces/aelf/capstone_aelf/src/bin/Debug/net6.0/StackUpDAO.pdb
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.csproj.AssemblyReference.cache
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.AssemblyInfoInputs.cache
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.AssemblyInfo.cs
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.csproj.CoreCompileInputs.cache
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.sourcelink.json
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.dll
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/refint/StackUpDAO.dll
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/StackUpDAO.pdb
+/workspaces/aelf/capstone_aelf/src/obj/Debug/net6.0/ref/StackUpDAO.dll
